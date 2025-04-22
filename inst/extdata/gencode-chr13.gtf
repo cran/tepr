@@ -1,0 +1,7 @@
+# test
+# tepr
+# chr13
+# limited
+# inst/extdata
+chr13	HAVANA	transcript	1	800	.	-	.	gene_id ENSG00000198033.12; transcript_id ENST00000400113.8; gene_type protein_coding; gene_name TUBA3C; transcript_type protein_coding; transcript_name TUBA3C-201; level 2; protein_id ENSP00000382982.3; transcript_support_level 5; hgnc_id HGNC:12408; tag not_best_in_genome_evidence; tag basic; tag Ensembl_canonical; tag MANE_Select; tag appris_principal_1; tag CCDS; ccdsid CCDS9284.1; havana_gene OTTHUMG00000016481.3; havana_transcript OTTHUMT00000044007.3;
+chr13	HAVANA	transcript	1000	1600	.	+	.	gene_id ENSG00000279516.2; transcript_id ENST00000623511.1; gene_type lncRNA; gene_name FAM230C; transcript_type lncRNA; transcript_name FAM230C-201; level 2; transcript_support_level 1; hgnc_id HGNC:24482; tag basic; tag Ensembl_canonical; havana_gene OTTHUMG00000189381.2; havana_transcript OTTHUMT00000479522.1;
