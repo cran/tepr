@@ -1,6 +1,6 @@
 Package: tepr
 Title: Transcription Elongation Profiling
-Version: 1.1.8
+Version: 1.1.9
 Authors@R: c(
     person("Nicolas", "Descostes", email = "nicolas.descostes@gmail.com", role = "cre"),
     person("Victor", "Billon", email = "victor.billon@etu.univ-cotedazur.fr", role = "aut"),
@@ -38,10 +38,10 @@ Collate: 'allauc.R' 'attenuation.R' 'averageandfilterexprs.R'
         'preprocessing-makewindows.R' 'preprocessing-retrieveanno.R'
         'preprocessing.R' 'tepr.R' 'universegroup.R' 'utils.R'
 NeedsCompilation: no
-Packaged: 2025-04-17 12:21:07 UTC; descoste
+Packaged: 2025-08-18 13:52:59 UTC; descoste
 Author: Nicolas Descostes [cre],
   Victor Billon [aut],
   Gael Cristofari [aut]
 Maintainer: Nicolas Descostes <nicolas.descostes@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-04-22 13:30:02 UTC
+Date/Publication: 2025-08-19 00:00:02 UTC
