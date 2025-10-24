@@ -1,13 +1,13 @@
-e5c7fd0131cdebdbb41a5ef05faf3a9c *DESCRIPTION
+06c6c8ae0626658ee9a9506be579a060 *DESCRIPTION
 3aaff5bc329f5ee26cd2669681c035d8 *NAMESPACE
-ac3dcb3d2eddf982bed50a7a0292de84 *NEWS
+700d64ba1e4e9ef3bfcfba2520a36155 *NEWS
 dfd5e067842c6a0bf4c08d207258b273 *R/allauc.R
 93e838ee58db07bf410d81e3fdaeeeba *R/attenuation.R
 94aa7b22611d6a6c2983b833bce2fb59 *R/averageandfilterexprs.R
 5eacd959940f77e82b34e0c861d30d2e *R/countna.R
 539246032ca8491a30851b3a7db5030b *R/genesECDF.R
 b8c807a9cb8879ac068094ea6b594348 *R/kneeid.R
-5104c96a3eedd76d27fc77a088bf5380 *R/meandifference.R
+c553a36942d46c1cf874ca6c31266d87 *R/meandifference.R
 75a84a43c2e56b611efcaaad8ef552fd *R/plotauc.R
 c427b7032b67cd230ee45338652e48ed *R/plotecdf.R
 a3b92e465fda6f3d59d5a42afe931936 *R/plothistoknee.R
@@ -23,9 +23,9 @@ a9fc0267bd55df75857ce4f459956897 *R/preprocessing-makewindows.R
 def495e3c97661ec3d38578ccca7cb60 *R/universegroup.R
 8da207686a11ae31d9ad2073672a6467 *R/utils.R
 849b8463b636418ad0485171f576c563 *build/vignette.rds
-a3a3c3e6eda4b4fc8ada2f96d585b2d3 *inst/doc/tepr.R
-c0ad4a618ea2733ad5b3d884bf3d88c8 *inst/doc/tepr.Rmd
-510d81ea41e6fe8e05398ed64d429d9b *inst/doc/tepr.html
+9b21a58571f2632b90414ff2ffc0b887 *inst/doc/tepr.R
+266b58f7d4a31579af017e63f20b183a *inst/doc/tepr.Rmd
+524fb54a41d4c392d4511972963ac335 *inst/doc/tepr.html
 3e17f34787405a7ab2fff30c51dd2ce7 *inst/extdata/AUCcompare_group.png
 dfc2eb4ff1897fdf8c00e92e518d0540 *inst/extdata/AUCcompare_pval.png
 9e4c0f212208a6b1d335499eefccb447 *inst/extdata/EGFR.png
@@ -34,6 +34,7 @@ f855de43170eae2732765c2d21f7bf42 *inst/extdata/allauc.rds
 d648a695484a7f57cc1cf4957a611f26 *inst/extdata/allwindowsbed.rds
 d1f50a3e5948ce0fef38df5c8f9cbde5 *inst/extdata/attenuation.rds
 75a840144a4a53f3f60c69ee1aeebec5 *inst/extdata/averageandfilterexprs.rds
+f7644e3dfa9b9604aedf29102a7ce524 *inst/extdata/chromtabtest.rds
 37ce12244aa6cb4b24270b8b27c63824 *inst/extdata/countna.rds
 a12a4f9feae60e22f494418ecdbbbe15 *inst/extdata/ctrl_rep1_chr13.forward.bg
 379516516e25482f046f9616c4bec67d *inst/extdata/ctrl_rep1_chr13.reverse.bg
@@ -93,4 +94,4 @@ de5005f218e8c5aae23e3bf2423e791e *tests/testthat/test-countna.R
 1fcc3e115a1378c16e09126c2b61774d *tests/testthat/test-preprocessing.R
 2a24b8ca4750c978b734aea96dc65e3f *tests/testthat/test-tepr.R
 818825a77097d739b3f50f53920286cd *tests/testthat/test-universegroup.R
-c0ad4a618ea2733ad5b3d884bf3d88c8 *vignettes/tepr.Rmd
+266b58f7d4a31579af017e63f20b183a *vignettes/tepr.Rmd
