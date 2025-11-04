@@ -1,6 +1,6 @@
-06c6c8ae0626658ee9a9506be579a060 *DESCRIPTION
+ab345b2a5037e17023ca28bfc6fe8bee *DESCRIPTION
 3aaff5bc329f5ee26cd2669681c035d8 *NAMESPACE
-700d64ba1e4e9ef3bfcfba2520a36155 *NEWS
+dc3582f37a01231da982baf9e453d276 *NEWS
 dfd5e067842c6a0bf4c08d207258b273 *R/allauc.R
 93e838ee58db07bf410d81e3fdaeeeba *R/attenuation.R
 94aa7b22611d6a6c2983b833bce2fb59 *R/averageandfilterexprs.R
@@ -21,11 +21,11 @@ a9fc0267bd55df75857ce4f459956897 *R/preprocessing-makewindows.R
 2a4b743e06229e0fb557caf1990ad2c8 *R/preprocessing.R
 62e516a79a4b76faedebcaa3172d20a1 *R/tepr.R
 def495e3c97661ec3d38578ccca7cb60 *R/universegroup.R
-8da207686a11ae31d9ad2073672a6467 *R/utils.R
+3b0801b52e380a1dd036b6212c9a783b *R/utils.R
 849b8463b636418ad0485171f576c563 *build/vignette.rds
 9b21a58571f2632b90414ff2ffc0b887 *inst/doc/tepr.R
 266b58f7d4a31579af017e63f20b183a *inst/doc/tepr.Rmd
-524fb54a41d4c392d4511972963ac335 *inst/doc/tepr.html
+e4f7218ee771310062ab4e9c00af51e8 *inst/doc/tepr.html
 3e17f34787405a7ab2fff30c51dd2ce7 *inst/extdata/AUCcompare_group.png
 dfc2eb4ff1897fdf8c00e92e518d0540 *inst/extdata/AUCcompare_pval.png
 9e4c0f212208a6b1d335499eefccb447 *inst/extdata/EGFR.png
@@ -82,7 +82,8 @@ ca9f8481a80af4cd94870d0e821ed58c *man/universegroup.Rd
 9d47658ce72d7ff70a069a8d7f5a50d3 *tests/testthat.R
 a89624e52d7b684debc57ced42feb713 *tests/testthat/test-allauc.R
 de62ef18cc623535c446c7eafe9a9b04 *tests/testthat/test-attenuation.R
-542ae3452a18591cddaaf17f14d927cb *tests/testthat/test-averageandfilterexprs.R
+6e0b4faa1e4bd026d65a05ce331cffd6 *tests/testthat/test-averageandfilterexprs.R
+a60b505d9030f709944be2ccc1203271 *tests/testthat/test-checkexptab.R
 de5005f218e8c5aae23e3bf2423e791e *tests/testthat/test-countna.R
 0829a657d968c4157d3994ec2d1a59d9 *tests/testthat/test-genesECDF.R
 560a1ea9fdbece1d153fb9a91abdfee0 *tests/testthat/test-kneeid.R
@@ -92,6 +93,6 @@ de5005f218e8c5aae23e3bf2423e791e *tests/testthat/test-countna.R
 65502652e8c208ff22115b16dcfa4f8b *tests/testthat/test-preprocessing-makewindows.R
 66e1bc58c4a8f5c6419dd1f3fadece90 *tests/testthat/test-preprocessing-retrieveanno.R
 1fcc3e115a1378c16e09126c2b61774d *tests/testthat/test-preprocessing.R
-2a24b8ca4750c978b734aea96dc65e3f *tests/testthat/test-tepr.R
+17216bc4b6dbf74ca26ed0015af1d44c *tests/testthat/test-tepr.R
 818825a77097d739b3f50f53920286cd *tests/testthat/test-universegroup.R
 266b58f7d4a31579af017e63f20b183a *vignettes/tepr.Rmd
