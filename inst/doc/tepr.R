@@ -115,7 +115,7 @@ rescountna <- countna(resallexprs, expdf, verbose = FALSE)
 print(rescountna)
 
 ## ----ecdf---------------------------------------------------------------------
-resecdflist <- genesECDF(resallexprs, expdf, verbose = FALSE)
+resecdflist <- genesECDF(resallexprs, verbose = FALSE)
 
 ## ----resecdf------------------------------------------------------------------
 print(head(as.data.frame(resecdflist[[1]]), 3))
