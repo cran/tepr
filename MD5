@@ -1,6 +1,6 @@
-ecd85d73b37526ec926f102b726f62bb *DESCRIPTION
+1d15b9c65e40c0ca54cf4fce44cd01de *DESCRIPTION
 3aaff5bc329f5ee26cd2669681c035d8 *NAMESPACE
-7880b24ee037d4f6b198ab65db81d528 *NEWS
+7f194dcfa23a35c6fd490c848d8cae9f *NEWS
 0ad43a7154149e0f7246da59659a04bf *R/allauc.R
 66c5c9cbe54ae9f2acc4e991466dbf10 *R/attenuation.R
 03f42420cdc3d5d13655df2404ddc8f8 *R/averageandfilterexprs.R
@@ -12,7 +12,7 @@ b8d83f2388f690d1c99133f2aecc4654 *R/countna.R
 d80517d2310f9d85d2604d2b0a5fd9af *R/plotecdf.R
 6a6e7a96c58d545a84e68deecbbcacaf *R/plothistoknee.R
 4c3a036ff9cab073ea6d719d9445d50e *R/plotmetagenes.R
-ced9192ac28b034247f47fdf48a9ecb3 *R/plotmulti.R
+8442833d5565fb6f444872cd1bf374cd *R/plotmulti.R
 e3680609a8c3c789d4668ead53d75053 *R/preprocessing-blacklisthighmap-utils.R
 b7ea764fdf352a4d4fffbb21d15283ac *R/preprocessing-blacklisthighmap.R
 a83116f3e6b5d4a281ef3e0bfac881b0 *R/preprocessing-createtablescores.R
@@ -25,7 +25,7 @@ efb5e52a5e34683719a107a19d6adf56 *R/tepr.R
 d248d436b11ff17dd951b707a8e541b2 *build/vignette.rds
 372636a17b46d3d084fdc2e4144f2320 *inst/doc/tepr.R
 bcde078080669aecffa465e7de85eec7 *inst/doc/tepr.Rmd
-b63d050f755c10730452e422ef2a5b6e *inst/doc/tepr.html
+ebe539ab88ebee7435ab87ebf3c2a341 *inst/doc/tepr.html
 3e17f34787405a7ab2fff30c51dd2ce7 *inst/extdata/AUCcompare_group.png
 dfc2eb4ff1897fdf8c00e92e518d0540 *inst/extdata/AUCcompare_pval.png
 9e4c0f212208a6b1d335499eefccb447 *inst/extdata/EGFR.png
